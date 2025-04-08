@@ -1,2 +1,1 @@
-# MulticlassAnimalClassification
-This is week2 
+# MulticlassAnimalClassification 
